@@ -1,3 +1,5 @@
+# billing system of any supermarket using while and if statement
+
 while True:
     total = 0
     products = []  # List to store products
